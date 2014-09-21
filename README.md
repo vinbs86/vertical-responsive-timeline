@@ -162,22 +162,10 @@ There is a bunch of code for pseudo-elements and all those arrows and angles, so
 
 Screenshots
 ---
-**Width 1440px (without scrollbar)**
+**You can see more screenshots [here](screenshots/)**
 
-![vertical responsive timeline 1440px](screenshots/vertical-responsive-timeline_1440px.jpg)
-
----
-
-
-**Width 800px (without scrollbar)**
-
-![vertical responsive timeline 800px](screenshots/vertical-responsive-timeline_800px.jpg)
+![Mockup demo](screenshots/pic.jpg)
 
 ---
 
-
-**Width 640px (without scrollbar)**
-
-![vertical responsive timeline 6400px](screenshots/vertical-responsive-timeline_640px.jpg)
-
----
+Product mockup created with [http://frame.lab25.co.uk/](http://frame.lab25.co.uk/)
